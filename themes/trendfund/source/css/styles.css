@@ -84,3 +84,13 @@
   color: rgba(0, 0, 0, 0.5);
   font-weight: 400;
 }
+
+/* post page */
+
+.post-page {
+  max-width: 1200px;
+  margin-top: 80px;
+}
+.post-page img {
+  width: 100%;
+}

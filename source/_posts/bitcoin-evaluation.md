@@ -1,7 +1,7 @@
 ---
 title: 链上数据：评估比特币的新框架
 excerpt: 比特币无法完全适应与传统资产类别相关的框架，这阻止了机构投资者采用比特币。我们认为，持怀疑态度的投资者没有考虑其独特的属性，而是得出结论，比特币、区块链、加密货币无法从根本上进行分析。在我们看来，投资者将越来越多地通过一个全新的框架来欣赏比特币的投资优势。虽然传统的分析框架并不合适，但比特币提供了一套独特的工具，投资者可以利用这些工具来评估其基本面。就像政府统计机构发布一个国家的人口和经济数据，或者上市公司发布披露增长率和收益的季度财务报表一样，比特币提供了实时网络活动和内部经济学数据的全球分类账。在缺乏中央控制的情况下，比特币的区块链提供开源数据，其完整性是网络透明度的一个功能。
-image: 'idea.webp'
+image: '3.png'
 ---
 
 _撰文：__Yassine Elmandjra, ARK invest（方舟投资）分析师_<br />_编译：Trendfund __Research_<br />_<br />_本文联合作者大卫Puell (_[_@ kenoshaking_](https://twitter.com/kenoshaking)_)。大卫是一名全职的加密货币链分析师和市场研究员。大卫以开创链上分析的新兴领域而闻名，他创造了原始的比特币估值指标，包括 _[_MVRV Ratio_](https://studio.glassnode.com/metrics?a=BTC&category=&m=market.Mvrv)_, the _[_Puell Multiple_](https://studio.glassnode.com/metrics?a=BTC&category=&m=indicators.PuellMultiple)_, and _[_average coin dormancy_](https://studio.glassnode.com/metrics?a=BTC&category=&m=indicators.AverageDormancy)_._<br />
@@ -12,7 +12,7 @@ _撰文：__Yassine Elmandjra, ARK invest（方舟投资）分析师_<br />_编�
 ### 投资者可以分析开源数据并评估比特币的基本面
 
 <br />正如我们将在这个由三部分组成的博客系列中探索的那样，市场参与者可以获得链上数据，以比任何其他传统资产更深入地分析比特币。我们用三层金字塔对分析深度进行分类，下层用作高层的构建块，如下所示。<br />
-<br />![image.png](bitcoin-evaluation/idea.webp)_注意: 市场价值与实现价值 (MVRV) 比率是用于评估比特币长期市场周期的长期指标。HODL是一个源于 “hold” 拼写错误的术语，它指的是比特币和其他加密货币的“买入并持有“的策略。_<br />Source: ARK Investment Management LLC, 2020
+<br />![image.png](bitcoin-evaluation/1.png)_注意: 市场价值与实现价值 (MVRV) 比率是用于评估比特币长期市场周期的长期指标。HODL是一个源于 “hold” 拼写错误的术语，它指的是比特币和其他加密货币的“买入并持有“的策略。_<br />Source: ARK Investment Management LLC, 2020
 
 在深入研究细节之前，金字塔底层的数据评估了网络的总体健康状况: 网络安全、货币完整性、透明度和使用情况。通过任何[区块链 “搜索引擎” ](https://btc.com/)访问，此层中的数据是原始且直接的，几乎不需要操作。与所有市场观察者相关，它提供了一个关于网络的基本 “情况说明书”。在此博客中，我们将在总结其他两个数据层后，详细探讨该数据层。<br />
 <br />中间层的数据深入研究: 通过钱包地址，它随时公开每个持有人的头寸和成本基础。从长远来看，比特币的价格可能会对第一层的原始网络健康数据做出更多反应，但是在中短期内，买方和卖方的行为可以帮助投资者在这种非生产性资产的定价和估值中显现效率低下的情况。<br />
@@ -32,32 +32,32 @@ _撰文：__Yassine Elmandjra, ARK invest（方舟投资）分析师_<br />_编�
 
 ### 第1层: 评估比特币网络的健康状况
 投资者可以通过从比特币节点提取原始开源数据来实时监控比特币网络的健康状况。在下表中，我们描述并提供了评估网络健康状况的三种方法的指标。<br />
-<br />表1: 评估比特币网络的健康状况<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611129020660-a30ddf85-344c-45cc-8393-5e0dcb58c158.png#align=left&display=inline&height=570&margin=%5Bobject%20Object%5D&name=image.png&originHeight=570&originWidth=1626&size=392932&status=done&style=none&width=1626)<br />Source: ARK Investment Management LLC, 2020<br />
+<br />表1: 评估比特币网络的健康状况<br />![image.png](bitcoin-evaluation/2.png)<br />Source: ARK Investment Management LLC, 2020<br />
 
 #### 一、货币完整性
-比特币协议通过给予分析师和投资者追踪比特币[总流通供应](https://studio.glassnode.com/metrics?a=BTC&category=&m=supply.Current)（total circulating supply）和[每日发行](https://studio.glassnode.com/metrics?a=BTC&category=&m=supply.Issued)（ daily issuance）的能力，确保了货币的完整性，这两种能力如下图所示。总循环供给是历史货币政策和每日发行当前货币政策的函数。从一开始，货币政策就已经预先确定并编码在比特币协议中，使其完全可预测和可验证。在强大的制衡体系的支持下，比特币严格遵守以规则为基础的货币政策凸显了其完整性。<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611129629506-f99dcfb7-b762-4c8d-b7b7-31e9788c9282.png#align=left&display=inline&height=794&margin=%5Bobject%20Object%5D&name=image.png&originHeight=794&originWidth=2034&size=701044&status=done&style=none&width=2034)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode<br />
-<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611130360105-20f1b9e1-e4c2-494d-82c8-57a19fdff582.png#align=left&display=inline&height=796&margin=%5Bobject%20Object%5D&name=image.png&originHeight=796&originWidth=2048&size=946876&status=done&style=none&width=2048)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
+比特币协议通过给予分析师和投资者追踪比特币[总流通供应](https://studio.glassnode.com/metrics?a=BTC&category=&m=supply.Current)（total circulating supply）和[每日发行](https://studio.glassnode.com/metrics?a=BTC&category=&m=supply.Issued)（ daily issuance）的能力，确保了货币的完整性，这两种能力如下图所示。总循环供给是历史货币政策和每日发行当前货币政策的函数。从一开始，货币政策就已经预先确定并编码在比特币协议中，使其完全可预测和可验证。在强大的制衡体系的支持下，比特币严格遵守以规则为基础的货币政策凸显了其完整性。<br />![image.png](bitcoin-evaluation/3.png)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode<br />
+<br />![image.png](bitcoin-evaluation/4.png)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
 
 #### 二.安全
-比特币的安全性由矿工保证，他们确保交易得到验证和不可逆转。[哈希速率](https://studio.glassnode.com/metrics?a=BTC&category=&m=mining.HashRateMean)，如下所示，测量矿工用来保护网络免受攻击的处理。在其他条件相同的情况下，不断上升的哈希速率级别会提高网络的安全性。<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611130528277-f3c39c33-ebf7-449a-b14b-f8ab211cc764.png#align=left&display=inline&height=783&margin=%5Bobject%20Object%5D&name=image.png&originHeight=783&originWidth=2048&size=811095&status=done&style=none&width=2048)<br />_For informational purposes only and should not be considered investment advice, or a recommendation to buy, sell or hold any particular security or cryptocurrency._<br />Source: ARK Investment Management LLC, Glassnode
+比特币的安全性由矿工保证，他们确保交易得到验证和不可逆转。[哈希速率](https://studio.glassnode.com/metrics?a=BTC&category=&m=mining.HashRateMean)，如下所示，测量矿工用来保护网络免受攻击的处理。在其他条件相同的情况下，不断上升的哈希速率级别会提高网络的安全性。<br />![image.png](bitcoin-evaluation/5.png)<br />_For informational purposes only and should not be considered investment advice, or a recommendation to buy, sell or hold any particular security or cryptocurrency._<br />Source: ARK Investment Management LLC, Glassnode
 
 如上所示，在过去的六年中，哈希率每两年增加了近一个数量级，是过去五年中比特币价格上涨速度的三倍。支持哈希率急剧上升的是硬件和矿工基于比特币价格随时间升值的预期而进行投资的意愿。有趣的是，仅在过去几个月中，比特币的价格才超过其2017年高位，在此期间其哈希率增加了950％。<br />
-<br />[矿工收入](https://studio.glassnode.com/metrics?a=BTC&category=&m=mining.RevenueSum)（新铸造的比特币和交易费用之和）也是衡量矿工在保护网络方面投资的指标。自成立以来，矿工已产生超过1850万比特币的收入，按当前价格计算约为6000亿美元，如下所示。<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611130608447-7db39ef1-339c-469c-924d-57fe2ca2a662.png#align=left&display=inline&height=764&margin=%5Bobject%20Object%5D&name=image.png&originHeight=764&originWidth=2048&size=832172&status=done&style=none&width=2048)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode<br />
+<br />[矿工收入](https://studio.glassnode.com/metrics?a=BTC&category=&m=mining.RevenueSum)（新铸造的比特币和交易费用之和）也是衡量矿工在保护网络方面投资的指标。自成立以来，矿工已产生超过1850万比特币的收入，按当前价格计算约为6000亿美元，如下所示。<br />![image.png](bitcoin-evaluation/6.png)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode<br />
 
 #### 三.使用
 投资者可以通过跟踪活跃地址的数量，用户采用的代理，交易量以及经济活动的代理来监视比特币的网络活动和使用情况。<br />
 
 #### 活跃地址
 
-<br />由于比特币网络的透明性，市场参与者可以监控其活动直至[有效地址](https://studio.glassnode.com/metrics?a=BTC&category=&m=addresses.ActiveCount)级别。活动地址不是用户数量的直接代理，但显示的是每天在网络上活动的唯一地址的数量。单个地址可以代表个人，也可以代表交易所和采矿业务。每天活跃的比特币地址数量超过100万，[1]其增长与比特币价格随时间呈正相关。<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611130837405-6cc638c1-efb6-4aba-a313-75d0ba7471c5.png#align=left&display=inline&height=791&margin=%5Bobject%20Object%5D&name=image.png&originHeight=791&originWidth=2048&size=811693&status=done&style=none&width=2048)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
+<br />由于比特币网络的透明性，市场参与者可以监控其活动直至[有效地址](https://studio.glassnode.com/metrics?a=BTC&category=&m=addresses.ActiveCount)级别。活动地址不是用户数量的直接代理，但显示的是每天在网络上活动的唯一地址的数量。单个地址可以代表个人，也可以代表交易所和采矿业务。每天活跃的比特币地址数量超过100万，[1]其增长与比特币价格随时间呈正相关。<br />![image.png](bitcoin-evaluation/7.png)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
 
-有效地址的更详细细分可以捕获随时间推移[每个地址中的比特币分布](https://studio.glassnode.com/metrics?a=BTC&category=&m=addresses.SupplyDistributionRelative)。如下所示，持有超过10,000个比特币的地址中的比特币份额随着时间的推移而下降，而持有少于10个比特币的份额却有所增加。换句话说，与比特币相关的财富似乎正在分散，扩大。<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611130905960-ccac63ff-dbc6-46a0-a2b7-db58f5c24738.png#align=left&display=inline&height=786&margin=%5Bobject%20Object%5D&name=image.png&originHeight=786&originWidth=2048&size=939024&status=done&style=none&width=2048)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
+有效地址的更详细细分可以捕获随时间推移[每个地址中的比特币分布](https://studio.glassnode.com/metrics?a=BTC&category=&m=addresses.SupplyDistributionRelative)。如下所示，持有超过10,000个比特币的地址中的比特币份额随着时间的推移而下降，而持有少于10个比特币的份额却有所增加。换句话说，与比特币相关的财富似乎正在分散，扩大。<br />![image.png](bitcoin-evaluation/8.png)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
 
 #### 交易量
 
-<br />自比特币创建以来，它已经完成了大约10万亿美元的交易，突出了它作为全球结算系统的能力。当以流通供应来划分时，[交易量](https://studio.glassnode.com/metrics?a=BTC&category=&m=transactions.TransfersVolumeAdjustedSum)可以为比特币的年化[速度](https://studio.glassnode.com/metrics?a=BTC&category=&m=indicators.Velocity)（annualized velocity）提供一些见解，如下所示。在过去的八年中，比特币的速度已经下降到自2011年以来从未出现过的水平，也许有几个原因: 投资者可能囤积比特币，也可能失去比特币，和/或交易活动可能会脱离链。<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611131005005-49bfe820-f302-4824-9fad-706d5ed24e54.png#align=left&display=inline&height=793&margin=%5Bobject%20Object%5D&name=image.png&originHeight=793&originWidth=2048&size=1017714&status=done&style=none&width=2048)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
+<br />自比特币创建以来，它已经完成了大约10万亿美元的交易，突出了它作为全球结算系统的能力。当以流通供应来划分时，[交易量](https://studio.glassnode.com/metrics?a=BTC&category=&m=transactions.TransfersVolumeAdjustedSum)可以为比特币的年化[速度](https://studio.glassnode.com/metrics?a=BTC&category=&m=indicators.Velocity)（annualized velocity）提供一些见解，如下所示。在过去的八年中，比特币的速度已经下降到自2011年以来从未出现过的水平，也许有几个原因: 投资者可能囤积比特币，也可能失去比特币，和/或交易活动可能会脱离链。<br />![image.png](bitcoin-evaluation/9.png)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
 
-[交易数量](https://studio.glassnode.com/metrics?a=BTC&category=&m=transactions.Count)是经济活动的良好代表，但在短期内与价格不高度相关。比特币在其12年的历史中促进了超过6亿笔交易，尽管价格波动很大，但近年来强劲的交易仍在继续。例如，在2018个熊市期间，随着比特币价格下降73%，交易量实际上增加了大约35%，如下所示，这表明了健康的网络活动。<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611131057969-d491fca5-b55d-4721-b569-d48cdfefadb0.png#align=left&display=inline&height=801&margin=%5Bobject%20Object%5D&name=image.png&originHeight=801&originWidth=2048&size=763661&status=done&style=none&width=2048)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
+[交易数量](https://studio.glassnode.com/metrics?a=BTC&category=&m=transactions.Count)是经济活动的良好代表，但在短期内与价格不高度相关。比特币在其12年的历史中促进了超过6亿笔交易，尽管价格波动很大，但近年来强劲的交易仍在继续。例如，在2018个熊市期间，随着比特币价格下降73%，交易量实际上增加了大约35%，如下所示，这表明了健康的网络活动。<br />![image.png](bitcoin-evaluation/10.png)_仅供参考，不应被视为投资建议，或购买、出售或持有任何特定证券或加密货币的建议。_<br />Source: ARK Investment Management LLC, Glassnode
 
 既然我们已经描述了比特币网络的健康状况，在本系列的第2部分中，我们将分析金字塔的第二个数据层，包括流入和流出比特币，持有者的行为，以及不同群体的成本基础。<br />
 <br />本文与Glassnode ([@ glassnode](https://twitter.com/glassnode)) 合作。Glassnode是一个区块链数据和情报提供商，为数字资产利益相关者生成创新的链上指标和工具。<br />
