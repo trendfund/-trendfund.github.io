@@ -1,0 +1,12 @@
+<section class="posts">
+  <% site.posts.map(post => { %>
+  <div class="card">
+    <img src="<%- url_for(post.image) %>" alt="<%= post.title %>" />
+    <p class="title"><%= post.title %></p>
+    <p class="excerpt"><%= post.excerpt %></p>
+    <span class="post-time"><%- date(post.date, "YYYY-MM-DD") %></span>
+  </div>
+  <% }) %>
+</section>
+
+
