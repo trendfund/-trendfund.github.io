@@ -1,5 +1,7 @@
 ---
 title: 链上数据：评估比特币的新框架
+excerpt: 比特币无法完全适应与传统资产类别相关的框架，这阻止了机构投资者采用比特币。我们认为，持怀疑态度的投资者没有考虑其独特的属性，而是得出结论，比特币、区块链、加密货币无法从根本上进行分析。在我们看来，投资者将越来越多地通过一个全新的框架来欣赏比特币的投资优势。虽然传统的分析框架并不合适，但比特币提供了一套独特的工具，投资者可以利用这些工具来评估其基本面。就像政府统计机构发布一个国家的人口和经济数据，或者上市公司发布披露增长率和收益的季度财务报表一样，比特币提供了实时网络活动和内部经济学数据的全球分类账。在缺乏中央控制的情况下，比特币的区块链提供开源数据，其完整性是网络透明度的一个功能。
+image: 'https://trendfund.cc/static/media/idea.d52daf66.webp'
 ---
 
 _撰文：__Yassine Elmandjra, ARK invest（方舟投资）分析师_<br />_编译：Trendfund __Research_<br />_<br />_本文联合作者大卫Puell (_[_@ kenoshaking_](https://twitter.com/kenoshaking)_)。大卫是一名全职的加密货币链分析师和市场研究员。大卫以开创链上分析的新兴领域而闻名，他创造了原始的比特币估值指标，包括 _[_MVRV Ratio_](https://studio.glassnode.com/metrics?a=BTC&category=&m=market.Mvrv)_, the _[_Puell Multiple_](https://studio.glassnode.com/metrics?a=BTC&category=&m=indicators.PuellMultiple)_, and _[_average coin dormancy_](https://studio.glassnode.com/metrics?a=BTC&category=&m=indicators.AverageDormancy)_._<br />
