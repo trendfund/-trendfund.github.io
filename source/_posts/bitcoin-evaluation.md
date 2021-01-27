@@ -1,7 +1,7 @@
 ---
 title: 链上数据：评估比特币的新框架
 excerpt: 比特币无法完全适应与传统资产类别相关的框架，这阻止了机构投资者采用比特币。我们认为，持怀疑态度的投资者没有考虑其独特的属性，而是得出结论，比特币、区块链、加密货币无法从根本上进行分析。在我们看来，投资者将越来越多地通过一个全新的框架来欣赏比特币的投资优势。虽然传统的分析框架并不合适，但比特币提供了一套独特的工具，投资者可以利用这些工具来评估其基本面。就像政府统计机构发布一个国家的人口和经济数据，或者上市公司发布披露增长率和收益的季度财务报表一样，比特币提供了实时网络活动和内部经济学数据的全球分类账。在缺乏中央控制的情况下，比特币的区块链提供开源数据，其完整性是网络透明度的一个功能。
-image: 'idea.d52daf66.webp'
+image: 'idea.webp'
 ---
 
 _撰文：__Yassine Elmandjra, ARK invest（方舟投资）分析师_<br />_编译：Trendfund __Research_<br />_<br />_本文联合作者大卫Puell (_[_@ kenoshaking_](https://twitter.com/kenoshaking)_)。大卫是一名全职的加密货币链分析师和市场研究员。大卫以开创链上分析的新兴领域而闻名，他创造了原始的比特币估值指标，包括 _[_MVRV Ratio_](https://studio.glassnode.com/metrics?a=BTC&category=&m=market.Mvrv)_, the _[_Puell Multiple_](https://studio.glassnode.com/metrics?a=BTC&category=&m=indicators.PuellMultiple)_, and _[_average coin dormancy_](https://studio.glassnode.com/metrics?a=BTC&category=&m=indicators.AverageDormancy)_._<br />
@@ -12,7 +12,7 @@ _撰文：__Yassine Elmandjra, ARK invest（方舟投资）分析师_<br />_编�
 ### 投资者可以分析开源数据并评估比特币的基本面
 
 <br />正如我们将在这个由三部分组成的博客系列中探索的那样，市场参与者可以获得链上数据，以比任何其他传统资产更深入地分析比特币。我们用三层金字塔对分析深度进行分类，下层用作高层的构建块，如下所示。<br />
-<br />![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1611128069173-f7f00cd4-4903-42b6-8906-83075c8748a4.png#align=left&display=inline&height=1142&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1142&originWidth=1796&size=941858&status=done&style=none&width=1796)_注意: 市场价值与实现价值 (MVRV) 比率是用于评估比特币长期市场周期的长期指标。HODL是一个源于 “hold” 拼写错误的术语，它指的是比特币和其他加密货币的“买入并持有“的策略。_<br />Source: ARK Investment Management LLC, 2020
+<br />![image.png](bitcoin-evaluation/idea.webp)_注意: 市场价值与实现价值 (MVRV) 比率是用于评估比特币长期市场周期的长期指标。HODL是一个源于 “hold” 拼写错误的术语，它指的是比特币和其他加密货币的“买入并持有“的策略。_<br />Source: ARK Investment Management LLC, 2020
 
 在深入研究细节之前，金字塔底层的数据评估了网络的总体健康状况: 网络安全、货币完整性、透明度和使用情况。通过任何[区块链 “搜索引擎” ](https://btc.com/)访问，此层中的数据是原始且直接的，几乎不需要操作。与所有市场观察者相关，它提供了一个关于网络的基本 “情况说明书”。在此博客中，我们将在总结其他两个数据层后，详细探讨该数据层。<br />
 <br />中间层的数据深入研究: 通过钱包地址，它随时公开每个持有人的头寸和成本基础。从长远来看，比特币的价格可能会对第一层的原始网络健康数据做出更多反应，但是在中短期内，买方和卖方的行为可以帮助投资者在这种非生产性资产的定价和估值中显现效率低下的情况。<br />
