@@ -18,9 +18,8 @@
   display: flex;
 }
 
-.nav .wrapper .research {
+.nav .wrapper .logo {
   height: 40px;
-  margin-left: 20px;
 }
 
 /* banner */
@@ -60,14 +59,16 @@
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
+  min-height: calc(100vh - 540px);
 }
 .posts .card {
-  margin: 60px 50px;
+  margin: 60px 28px;
   width: 300px;
   border: 1px solid #000;
   padding: 20px;
   font-family: PingFangSC-Regular, PingFang SC;
   text-decoration : none;
+  height: 360px;
 }
 .posts .card img {
   display: block;
@@ -132,4 +133,16 @@
 }
 .post-page img {
   width: 100%;
+}
+
+/* footer */
+
+.footer {
+  background: rgb(14, 14, 14);
+  height: 160px;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
 }
