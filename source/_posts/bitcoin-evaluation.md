@@ -65,3 +65,4 @@ _撰文：__Yassine Elmandjra, ARK invest（方舟投资）分析师_<br />_编�
 <br />
 <br />_1* ARK Investment Management LLC, Glassnode_
 
+免责声明：作为信息平台，本站所发布文章仅代表作者个人观点，与本站立场无关。文章内的信息、意见等均仅供参考，并非作为或被视为实际投资建议。

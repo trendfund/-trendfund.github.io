@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="50px" viewBox="0 0 178 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <g id="官网" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="行业研究" transform="translate(-312.000000, -15.000000)" fill="#FFFFFF">
+            <g id="编组" transform="translate(312.000000, 15.000000)">
+                <rect id="矩形" x="0" y="5" width="1" height="40"></rect>
+                <text id="Research" font-family="PingFangSC-Light, PingFang SC" font-size="36" font-weight="300">
+                    <tspan x="25" y="38">Research</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
