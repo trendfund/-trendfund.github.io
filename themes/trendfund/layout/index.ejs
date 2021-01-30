@@ -3,8 +3,10 @@
   <% site.posts.map(post => { %>
   <a href="<%- url_for(post.path) %>" class="card">
     <img src="<%- url_for(post.path + post.image) %>" alt="<%= post.title %>" />
+    <% post.categories.data.map(item => { %>
+      <p class="category"><%= item.name %></p>
+    <% }) %>
     <p class="title"><%= post.title %></p>
-    <p class="excerpt"><%= post.excerpt %></p>
     <span class="post-time"><%- date(post.date, "YYYY-MM-DD") %></span>
   </a>
   <% }) %>
