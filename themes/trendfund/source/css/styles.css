@@ -39,6 +39,7 @@
   align-items: center;
   text-align: left;
   color: rgb(255, 255, 255);
+  background-position: 50% 20%;
 }
 .banner .title-wrapper {
   width: 100%;
