@@ -76,23 +76,27 @@
   padding: 20px;
   font-family: PingFangSC-Regular, PingFang SC;
   text-decoration : none;
-  height: 360px;
+  height: 330px;
   background: #f1f1f1;
   border: 1px solid #fff;
   transition: border .3s ease-in-out 0s;
 }
 .posts .card:hover {
   border: 1px solid #000;
-  
 }
 .posts .card img {
   display: block;
   width: 300px;
   height: 175px;
+  object-fit: cover;
 }
 .posts .card .title {
-  font-size: 18px;
-  color: #000;
+  font-size: 24px;
+  font-family: PingFangSC-Medium, PingFang SC;
+  font-weight: 500;
+  color: #000000;
+  line-height: 33px;
+  margin: 14px 0;
 }
 .posts .card .excerpt {
   font-size: 14px;
@@ -111,6 +115,14 @@
   font-weight: 400;
 }
 
+.posts .card .category {
+  font-size: 14px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.6);
+  line-height: 20px;
+}
+
 /* post page */
 
 .post-page {
@@ -121,6 +133,7 @@
 }
 .post-page p {
   line-height: 1.74;
+  text-align: justify;
 }
 .post-page>h1{
   font-family: Chinese Quote,Segoe UI,Roboto,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji;
@@ -147,7 +160,8 @@
   font-size: 13px;
 }
 .post-page img {
-  width: 100%;
+  max-height: 400px;
+  max-width: 100%;
 }
 
 /* footer */
