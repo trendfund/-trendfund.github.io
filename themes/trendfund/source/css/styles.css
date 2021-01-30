@@ -71,12 +71,15 @@
   padding: 40px;
 }
 .posts .card {
-  margin: 40px 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 28px 28px;
   width: 300px;
   padding: 20px;
   font-family: PingFangSC-Regular, PingFang SC;
   text-decoration : none;
-  height: 330px;
+  height: 360px;
   background: #f1f1f1;
   border: 1px solid #fff;
   transition: border .3s ease-in-out 0s;
@@ -96,7 +99,7 @@
   font-weight: 500;
   color: #000000;
   line-height: 33px;
-  margin: 14px 0;
+  margin: 8px 0 14px;
 }
 .posts .card .excerpt {
   font-size: 14px;
@@ -116,6 +119,7 @@
 }
 
 .posts .card .category {
+  margin: 24px auto 0px;
   font-size: 14px;
   font-family: PingFangSC-Regular, PingFang SC;
   font-weight: 400;

@@ -38,7 +38,8 @@ Source: ARK Investment Management LLC, 2020
 
 
 也就是说，随着时间的流逝，比特币的波动性正在减小，如下所示。随着采用率的提高，对比特币的边际需求应占其总网络价值的较小比例，从而减少价格波动的幅度。在所有其他条件相等的情况下，例如，对于市值100亿美元或网络价值的10亿美元的新需求，对比特币的价格的影响应大于对价值1000亿美元的网络价值的10亿美元的新需求。重要的是，我们认为波动不应排除比特币作为价值存储的原因，主要是因为比特币通常与价格的大幅上涨同时发生。
-![image.png](Debunking-Bitcoin-Myths/2.png)Source: ARK Investment Management LLC, 2020.Data Source:Coinmetrics
+![image.png](Debunking-Bitcoin-Myths/2.png)
+Source: ARK Investment Management LLC, 2020.Data Source:Coinmetrics
 
 
 长期以来，比特币的购买力已大大提高。例如，自2011年以来，比特币的价格以每年约200％的复合速度增长，尽管发生了年内重大变动，但自2014年以来，比特币的价格按年最低价逐年升值。

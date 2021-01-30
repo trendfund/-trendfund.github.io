@@ -10,7 +10,7 @@ _撰文：链闻 Eliven_
 _编译：Trendfund Research_
 
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/12492946/1612013801619-4932d0b1-9bb6-4e39-b48c-ce259295a02e.png#align=left&display=inline&height=366&margin=%5Bobject%20Object%5D&name=image.png&originHeight=366&originWidth=550&size=429223&status=done&style=none&width=550)
+![image.png](Institutional-investment-in-Bitcoin/Institutional-investment-in-Bitcoin.png)
 刚刚结束的 2020 年可谓是比特币峰回路转的一年，在年初经历 3·12 大跌，又在年末创下历史新高，一度跻身全球资产排名前十。如果把时间往前延伸，不难发现，比特币诞生以来一直在曲折中上升。
 
 
