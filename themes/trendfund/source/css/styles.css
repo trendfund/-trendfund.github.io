@@ -171,12 +171,57 @@
 
 /* footer */
 
-.footer {
+.ant-layout-footer {
   background: rgb(14, 14, 14);
-  height: 160px;
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
+  color: rgb(255, 255, 255);
+  min-height: 300px;
+  font-size: 14px;
+  padding: 24px 50px;
+  flex: 0 0 auto;
+}
+.ant-layout-footer .wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0px auto;
+}
+
+.ant-layout-footer .ant-row, .ant-layout-footer .ant-row:after, .ant-layout-footer .ant-row:before {
+  display: flex;
+}
+.ant-layout-footer .wrapper .row {
+  padding: 60px 0px;
+  flex-flow: row wrap;
+}
+.ant-layout-footer .wrapper .link {
+  color: rgb(255, 255, 255);
+}
+.ant-layout-footer .wrapper p {
+  opacity: 0.6;
+}
+.ant-layout-footer .wrapper a {
+  text-decoration: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  -webkit-transition: color .3s;
+  transition: color .3s;
+}
+@media (min-width: 576px) {
+  .ant-layout-footer .wrapper .row  .ant-col-sm-8 {
+    display: block;
+    -ms-flex: 0 0 33.33333333%;
+    flex: 0 0 33.33333333%;
+    max-width: 33.33333333%;
+  }
+  .ant-layout-footer .wrapper .row .ant-col-sm-4 {
+    display: block;
+    -ms-flex: 0 0 16.66666667%;
+    flex: 0 0 16.66666667%;
+    max-width: 16.66666667%;
+  }
 }
