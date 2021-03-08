@@ -1,6 +1,6 @@
 <%- partial('partial/banner') %>
 <section class="posts">
-  <% site.posts.map(post => { %>
+  <% site.posts.data.sort(function(a,b) {return +b.date - +a.date}).map(post => { %>
   <a href="<%- url_for(post.path) %>" class="card">
     <div>
     <img src="<%- url_for(post.path + post.image) %>" alt="<%= post.title %>" />

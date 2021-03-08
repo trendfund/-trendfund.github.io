@@ -1,6 +1,7 @@
 ---
 title: ARK 2021 投资趋势分析
 date: 2021-01-11
+updated: 2021-01-11
 image: '1.png'
 categories:
 - 行业与市场
